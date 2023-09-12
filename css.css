@@ -1,0 +1,39 @@
+.card{
+    width: 300px;
+    height: 400px;
+    
+    border: 2px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 500px;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(103, 102, 102);
+}
+.btn button{
+  font-size: 20px;
+  padding: 8px 10px;
+  border-radius: 24px;
+  border: solid 0;
+  color: white;
+  background-color: rgb(222, 150, 57);
+}
+
+
+.btn{
+    padding-top: 60px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+   padding-top: 99px;
+}
